@@ -29,6 +29,7 @@ Currently collected in `ceo-skill/`:
 
 - `OpenClaw-Enterprise-Knowledge-Base-Skill`
 - `Openclaw-Study-Coach`
+- `openclaw-ppt-skill`
 
 ## Next Steps
 
