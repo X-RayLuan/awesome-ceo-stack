@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  <img src="assets/hero.gif" alt="Product Branding skill — a 60s vertical promo video generated end-to-end from product UI" width="300">
+  <br><sub>↑ built by the <a href="ceo-skill/Openclaw-Product-Branding-Skill">Product Branding</a> skill — product UI → 60s promo video, no editor</sub>
+</p>
+
+<p align="center">
   <a href="#the-stack">Skills</a> ·
   <a href="#quick-start">Quick start</a> ·
   <a href="#who-its-for">Who it's for</a> ·
