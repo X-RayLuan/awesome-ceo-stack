@@ -1,4 +1,4 @@
-<h1 align="center">awesome-ceo-stack</h1>
+<h1 align="center">Awesome CEO Stack</h1>
 
 <p align="center"><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
 
