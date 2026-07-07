@@ -18,7 +18,7 @@
   <a href="#quick-start">Quick start</a> ·
   <a href="#who-its-for">Who it's for</a> ·
   <a href="#contributing">Contributing</a><br>
-  <img alt="skills" src="https://img.shields.io/badge/agent%20skills-6-2E6BFF">
+  <img alt="skills" src="https://img.shields.io/badge/agent%20skills-7-2E6BFF">
   <img alt="works with" src="https://img.shields.io/badge/works%20with-Claude%20Code%20·%20Codex%20·%20OpenClaw-111">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-green">
 </p>
@@ -39,6 +39,7 @@ Keywords: `claude-skills` · `agent-skills` · `claude-code` · `codex` · `open
 | 🖥️ [**Web Deck (PPT)**](ceo-skill/openclaw-ppt-skill) | A single-file, horizontal-swipe **web slide deck** in two directions: "e-magazine × e-ink" (serif + fluid WebGL) or "Swiss International" (grid + high-contrast accents). |
 | ✍️ [**Cornerstone Deck Agent**](ceo-skill/cornerstone-smart-agent) | A **PPT-writing agent** that drafts structured, presentation-ready slide content. |
 | 🎓 [**Study Coach**](ceo-skill/Openclaw-Study-Coach) | A **K-12 AI tutor** across all subjects with longitudinal memory, cross-subject thinking methods (divergent / calculation / spaced repetition), and a 3-minute **parent playbook**. |
+| 🔍 [**SEO Content Writer**](ceo-skill/openclaw-seo-content-writer) | Write, QA, publish, verify the deploy, and get **SEO blog posts indexed** on Google — an authoring workflow through to Search Console submission. |
 
 ## Quick start
 
