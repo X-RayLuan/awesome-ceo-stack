@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+  html,body{margin:0;width:1080px;height:1920px;background:transparent;overflow:hidden;
+    font-family:"PingFang SC","STHeiti","Heiti SC","Microsoft YaHei",sans-serif;}
+  .wrap{position:absolute;left:0;right:0;bottom:150px;display:flex;justify-content:center;padding:0 70px;}
+  .cap{max-width:940px;background:rgba(8,12,22,.72);color:#fff;font-size:44px;font-weight:700;line-height:1.4;
+    letter-spacing:.5px;padding:24px 40px;border-radius:22px;text-align:center;
+    box-shadow:0 20px 50px rgba(0,0,0,.4);border:1px solid rgba(255,255,255,.08);}
+  .cap .hl{color:#6ea0ff;}   /* highlight color for **bold** — retint to your brand */
+</style>
+</head>
+<body>
+  <div class="wrap"><div class="cap" id="cap"></div></div>
+  <script>
+    const t = new URLSearchParams(location.search).get('t') || '';
+    document.getElementById('cap').innerHTML = t.replace(/\*\*(.+?)\*\*/g, '<span class="hl">$1</span>');
+  </script>
+</body>
+</html>
