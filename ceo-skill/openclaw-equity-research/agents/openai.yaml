@@ -1,0 +1,3 @@
+display_name: OpenClaw Equity Research
+short_description: Equity research workflows for analyst notes.
+default_prompt: Use OpenClaw Equity Research to prepare an earnings update for a public company with cited sources, assumptions, risks, and human-review notes.

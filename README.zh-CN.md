@@ -18,7 +18,7 @@
   <a href="#快速开始">快速开始</a> ·
   <a href="#适合谁">适合谁</a> ·
   <a href="#参与贡献">参与贡献</a><br>
-  <img alt="skills" src="https://img.shields.io/badge/agent%20skills-7-2E6BFF">
+  <img alt="skills" src="https://img.shields.io/badge/agent%20skills-8-2E6BFF">
   <img alt="works with" src="https://img.shields.io/badge/works%20with-Claude%20Code%20·%20Codex%20·%20OpenClaw-111">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-green">
 </p>
@@ -40,6 +40,7 @@
 | ✍️ [**Cornerstone Deck Agent**](ceo-skill/cornerstone-smart-agent) | 一个 **PPT 写作 agent**,起草结构化、可直接演示的 slide 内容。 |
 | 🎓 [**Study Coach**](ceo-skill/Openclaw-Study-Coach) | 一个全科 **K-12 AI 辅导员**,带纵向记忆、跨学科思维方法(发散 / 计算 / 间隔重复),以及 3 分钟**家长 Playbook**。 |
 | 🔍 [**SEO Content Writer**](ceo-skill/openclaw-seo-content-writer) | 写作、质检、发布、部署校验,并让 **SEO 博客文章被 Google 收录**——一套写作流程直到 Search Console 提交。 |
+| 📊 [**Equity Research**](ceo-skill/openclaw-equity-research) | 结构化的**股票研究备忘**与观察名单分诊——业绩前瞻、首次覆盖、模型更新、估值备忘、催化剂日历、投资逻辑追踪。 |
 
 ## 快速开始
 
