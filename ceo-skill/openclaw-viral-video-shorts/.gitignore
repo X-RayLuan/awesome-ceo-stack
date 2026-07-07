@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+viral-shorts/
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.env
+.env*
