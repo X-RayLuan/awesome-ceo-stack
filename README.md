@@ -30,6 +30,7 @@ Currently collected in `ceo-skill/`:
 - `OpenClaw-Enterprise-Knowledge-Base-Skill`
 - `Openclaw-Study-Coach`
 - `openclaw-ppt-skill`
+- `Openclaw-Product-Branding-Skill` — turn product UI + a one-liner into a 60s vertical promo video (script → HTML UI prototype → KIE real-person B-roll → headless record → ffmpeg → Doubao TTS + BGM → Feishu), no video editor
 
 ## Next Steps
 
