@@ -8,6 +8,7 @@
 
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill_Compatible-orange)](https://github.com/openclaw)
 [![Languages](https://img.shields.io/badge/Languages-中文%20%2F%20EN%20%2F%20JP%20%2F%20KR%20%2F%20ES-red)](#-多语言介绍--multilingual--多言語--다국어--multilingüe)
+[![Agentify AI](https://img.shields.io/badge/Base_product_of-Agentify_AI-2E6BFF)](https://aiagentify.ai/)
 
 [**📖 What it is / 这是什么 / 何ですか / 무엇인가요 / Qué es**](#-what-it-is--这是什么) ·
 [**🏗️ Repository layout / 仓库结构 / リポジトリ構成 / 리포지토리 구조 / Estructura del repositorio**](#-repository-layout--仓库结构) ·
@@ -17,6 +18,10 @@
 [**📘 Ontology / 术语体系 / オントロジー / 온톨로지 / Ontología**](#-ontology--术语体系)
 
 </div>
+
+> **🏢 The Enterprise Knowledge Base is the base product of [Agentify AI](https://aiagentify.ai/).**
+> 企业知识库是 [Agentify AI](https://aiagentify.ai/) 的基座产品 —— 让公司知识被智能体理解、治理和调用。
+> Learn more at **[aiagentify.ai](https://aiagentify.ai/)**.
 
 ---
 
