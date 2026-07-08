@@ -13,7 +13,7 @@ from pptx.enum.shapes import MSO_AUTO_SHAPE_TYPE
 from pptx.enum.text import MSO_ANCHOR, PP_ALIGN
 from pptx.util import Cm, Pt
 
-WORKSPACE = Path("/Users/leiwang/.openclaw/workspace-smart")
+WORKSPACE = Path("/Users/you/.openclaw/workspace-smart")
 MEDIA = WORKSPACE / ".tmp" / "template_media"
 LOGO_DARK = MEDIA / "image14.png"
 LOGO_LIGHT = MEDIA / "image5.png"

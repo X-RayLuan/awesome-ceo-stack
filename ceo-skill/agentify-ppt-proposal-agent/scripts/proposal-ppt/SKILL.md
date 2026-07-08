@@ -1,14 +1,14 @@
 ---
-name: cornerstone-customer-ppt
-description: "收到客户信息后，搜索 Cornerstone Wiki 知识库，生成差异化 PPT 大纲，经用户确认后生成 PPTX。"
+name: proposal-ppt
+description: "收到客户信息后，搜索 Consulting Wiki 知识库，生成差异化 PPT 大纲，经用户确认后生成 PPTX。"
 metadata:
   allowed-tools: [read, exec, write, sessions_spawn, message]
   user-invocable: true
 ---
 
-# Cornerstone Customer PPT
+# Proposal PPT
 
-收到客户需求信息后，在 Cornerstone Wiki 知识库中搜索相关背景，结合已有资料生成有差异化的 PPT 大纲，经用户确认后生成 PPTX 文件。
+收到客户需求信息后，在 Consulting Wiki 知识库中搜索相关背景，结合已有资料生成有差异化的 PPT 大纲，经用户确认后生成 PPTX 文件。
 
 ## 工作流程
 
@@ -27,8 +27,8 @@ metadata:
 在以下路径中检索相关内容（关键词：公司名、行业、需求类型、方法论关键词）：
 
 ```
-~/Desktop/Cornerstone Wiki/knowledge-base/
-~/Desktop/Cornerstone Wiki/
+~/Desktop/Consulting Wiki/knowledge-base/
+~/Desktop/Consulting Wiki/
 ```
 
 检索内容优先级：
@@ -60,7 +60,7 @@ metadata:
 按照确认后的大纲，参考以下模板的视觉和格式生成 `deck.html`：
 
 ```
-~/Desktop/Cornerstone Wiki/柯纳仕咨询与培训 Intro_CN 咨询版 V1.2.pptx
+~/Desktop/Consulting Wiki/示范咨询与培训 Intro_CN 咨询版 V1.2.pptx
 ```
 
 HTML 结构规范：
@@ -71,27 +71,27 @@ HTML 结构规范：
 - 不使用内联样式，全部依赖外联 CSS 或母版定义
 - 字体、配色、版式尽量贴近母版风格
 
-deck.html 保存路径：`~/Desktop/Cornerstone Wiki/deck.html`
+deck.html 保存路径：`~/Desktop/Consulting Wiki/deck.html`
 
 ### 第六步：转换为 PPTX
 
 调用脚本生成 PPTX：
 
 ```bash
-~/.openclaw/workspace-smart/build_ppt_from_html.sh deck.html <客户名>_<项目主题>_<柯纳仕方案>_$(date +%Y%m%d).pptx
+~/.openclaw/workspace-smart/build_ppt_from_html.sh deck.html <客户名>_<项目主题>_<示范咨询方案>_$(date +%Y%m%d).pptx
 ```
 
-脚本使用 `html_to_pptx.py` + 母版 `柯纳仕咨询与培训 Intro_CN 咨询版 V1.2.pptx` 进行转换。
+脚本使用 `html_to_pptx.py` + 母版 `示范咨询与培训 Intro_CN 咨询版 V1.2.pptx` 进行转换。
 
-输出文件保存到：`~/Desktop/Cornerstone Wiki/`
+输出文件保存到：`~/Desktop/Consulting Wiki/`
 
 ## 文件命名规范
 
 ```
-<客户名>_<项目主题>_<柯纳仕方案>_YYYYMMDD.pptx
+<客户名>_<项目主题>_<示范咨询方案>_YYYYMMDD.pptx
 ```
 
-示例：`百威商学院_领导力发展_柯纳仕方案_20260526.pptx`
+示例：`示范饮料商学院_领导力发展_示范咨询方案_20260526.pptx`
 
 ## 关键约束
 

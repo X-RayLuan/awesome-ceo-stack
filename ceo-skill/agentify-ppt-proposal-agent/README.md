@@ -6,7 +6,7 @@
 
 ### Proposal AI Agent · 提案型 AI 智能体 · 提案作成 AI エージェント · 제안형 AI 에이전트 · Agente de IA para Propuestas
 
-![GitHub stars](https://img.shields.io/github/stars/X-RayLuan/cornerstone-smart-agent?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/X-RayLuan/awesome-ceo-stack?style=flat-square)
 ![License](https://img.shields.io/badge/License-Private_or_Custom-lightgrey?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-Compatible-222222?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Compatible-6B5B95?style=flat-square)
@@ -28,29 +28,29 @@
 
 ### 🇨🇳 中文
 
-**Cornerstone Smart Agent** 是一个面向 **培训咨询 / 人才发展 / 领导力项目 / 客户提案** 的 **提案型 AI 智能体**。它不是通用聊天机器人，而是一个围绕客户需求澄清、知识库检索、方案结构设计、提案写作、HTML 转 PPT 交付来工作的咨询型 agent。它特别适合把模糊的客户需求，快速整理成结构清楚、语言专业、可直接交付的咨询提案。
+**Agentify PPT Proposal Agent** 是一个面向 **培训咨询 / 人才发展 / 领导力项目 / 客户提案** 的 **提案型 AI 智能体**。它不是通用聊天机器人，而是一个围绕客户需求澄清、知识库检索、方案结构设计、提案写作、HTML 转 PPT 交付来工作的咨询型 agent。它特别适合把模糊的客户需求，快速整理成结构清楚、语言专业、可直接交付的咨询提案。
 
 ### 🇬🇧 English
 
-**Cornerstone Smart Agent** is a **proposal-focused AI agent for training, leadership, consulting, and talent-development work**. It is not a general chatbot. It is designed to turn ambiguous client requests into structured proposals by combining local knowledge assets, reusable consulting patterns, proposal frameworks, and an HTML-to-PPT delivery workflow.
+**Agentify PPT Proposal Agent** is a **proposal-focused AI agent for training, leadership, consulting, and talent-development work**. It is not a general chatbot. It is designed to turn ambiguous client requests into structured proposals by combining local knowledge assets, reusable consulting patterns, proposal frameworks, and an HTML-to-PPT delivery workflow.
 
 ### 🇯🇵 日本語
 
-**Cornerstone Smart Agent** は、**研修・リーダーシップ・コンサルティング・タレント開発** 向けの **提案特化型 AI エージェント**です。一般的なチャットボットではなく、曖昧な顧客要望を、ローカル知識ベース・再利用可能な提案パターン・HTML から PPT への変換ワークフローを用いて、構造化された提案書へ落とし込むために設計されています。
+**Agentify PPT Proposal Agent** は、**研修・リーダーシップ・コンサルティング・タレント開発** 向けの **提案特化型 AI エージェント**です。一般的なチャットボットではなく、曖昧な顧客要望を、ローカル知識ベース・再利用可能な提案パターン・HTML から PPT への変換ワークフローを用いて、構造化された提案書へ落とし込むために設計されています。
 
 ### 🇰🇷 한국어
 
-**Cornerstone Smart Agent** 는 **교육, 리더십, 컨설팅, 인재 개발** 업무를 위한 **제안 특화형 AI 에이전트**입니다. 일반 챗봇이 아니라, 모호한 고객 요청을 로컬 지식 자산, 재사용 가능한 컨설팅 구조, 제안 프레임워크, HTML-to-PPT 전달 워크플로우를 통해 구조화된 제안서로 바꾸도록 설계되었습니다.
+**Agentify PPT Proposal Agent** 는 **교육, 리더십, 컨설팅, 인재 개발** 업무를 위한 **제안 특화형 AI 에이전트**입니다. 일반 챗봇이 아니라, 모호한 고객 요청을 로컬 지식 자산, 재사용 가능한 컨설팅 구조, 제안 프레임워크, HTML-to-PPT 전달 워크플로우를 통해 구조화된 제안서로 바꾸도록 설계되었습니다.
 
 ### 🇪🇸 Español
 
-**Cornerstone Smart Agent** es un **agente de IA enfocado en propuestas para formacion, liderazgo, consultoria y desarrollo de talento**. No es un chatbot general. Su funcion es convertir solicitudes ambiguas de clientes en propuestas estructuradas combinando conocimiento local, patrones reutilizables de consultoria, marcos de propuesta y un flujo de trabajo de HTML a PPT.
+**Agentify PPT Proposal Agent** es un **agente de IA enfocado en propuestas para formacion, liderazgo, consultoria y desarrollo de talento**. No es un chatbot general. Su funcion es convertir solicitudes ambiguas de clientes en propuestas estructuradas combinando conocimiento local, patrones reutilizables de consultoria, marcos de propuesta y un flujo de trabajo de HTML a PPT.
 
 ---
 
 ## 是什么
 
-**Cornerstone Smart Agent** 是一个为咨询型提案场景打造的 agent 仓库。
+**Agentify PPT Proposal Agent** 是一个为咨询型提案场景打造的 agent 仓库。
 
 它主要解决这些问题:
 
@@ -123,7 +123,7 @@
 ## 📁 仓库结构
 
 ```text
-cornerstone-smart-agent/
+agentify-ppt-proposal-agent/
 ├── README.md
 ├── AGENTS.md
 ├── SOUL.md
@@ -137,8 +137,6 @@ cornerstone-smart-agent/
 ├── scripts/
 ├── html_to_pptx.py
 ├── build_ppt_from_html.sh
-├── generate_budweiser_ppt.py
-├── gen_budweiser.py
 ├── reset_feishu_smart_session.sh
 └── STALE_LOCK_RUNBOOK.md
 ```
@@ -161,8 +159,6 @@ cornerstone-smart-agent/
 3. **PPT generation workflow**
    - `html_to_pptx.py`
    - `build_ppt_from_html.sh`
-   - `generate_budweiser_ppt.py`
-   - `gen_budweiser.py`
 
 4. **Operational helpers**
    - `reset_feishu_smart_session.sh`
@@ -172,7 +168,7 @@ cornerstone-smart-agent/
 
 ## 这个 agent 和通用 AI 的区别
 
-| 维度 | 通用 AI | **Cornerstone Smart Agent** |
+| 维度 | 通用 AI | **Agentify PPT Proposal Agent** |
 |---|---|---|
 | 目标 | 通用问答 | **客户提案与咨询交付** |
 | 知识来源 | 主要靠模型记忆 | **优先本地知识库和内部资产** |
@@ -208,14 +204,14 @@ cornerstone-smart-agent/
 **它一定要输出 PPT 吗?**
 不一定，但它已经内置了从 HTML 到 `.pptx` 的交付链路，所以很适合走完整交付流程。
 
-**这个仓库适合放进 Ray CEO Skills 吗?**
+**这个仓库适合放进 Awesome CEO Stack 吗?**
 适合。它代表的是 CEO / 咨询负责人常用的“提案与客户沟通能力模块”。
 
 ---
 
-## 适合放进 Ray CEO Skills 的原因
+## 适合放进 Awesome CEO Stack 的原因
 
-如果把 `Ray-CEO-SKILLS` 看成一个 CEO operating system，这个 agent 补的是很关键的一块:
+如果把 `awesome-ceo-stack` 看成一个 CEO operating system，这个 agent 补的是很关键的一块:
 
 - 对客户的提案表达能力
 - 把模糊需求翻译成结构化方案的能力

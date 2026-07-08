@@ -12,12 +12,12 @@
 运行：
 
 ```sh
-/Users/leiwang/.openclaw/workspace-smart/reset_feishu_smart_session.sh
+/Users/you/.openclaw/workspace-smart/reset_feishu_smart_session.sh
 ```
 
 脚本会做三件事：
 
-1. 备份 `/Users/leiwang/.openclaw/agents/smart/sessions/sessions.json`
+1. 备份 `/Users/you/.openclaw/agents/smart/sessions/sessions.json`
 2. 把 `smart` 当前会话映射重置为 `{}`，强制下一条 Feishu 消息开新会话
 3. 重启 `openclaw gateway`
 

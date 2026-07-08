@@ -1,7 +1,7 @@
 #!/bin/zsh
 set -euo pipefail
 
-SMART_SESSIONS_DIR="/Users/leiwang/.openclaw/agents/smart/sessions"
+SMART_SESSIONS_DIR="/Users/you/.openclaw/agents/smart/sessions"
 SESSIONS_JSON="$SMART_SESSIONS_DIR/sessions.json"
 STAMP="$(date +%Y-%m-%dT%H%M%S)"
 BACKUP="$SMART_SESSIONS_DIR/sessions.json.bak.manual-reset-$STAMP"

@@ -4,7 +4,7 @@ This file explains what is specific to the `Smart` agent.
 
 ## Positioning
 
-`Smart` is a training and consulting proposal agent for Cornerstone Consulting.
+`Smart` is a training and consulting proposal agent for Acme Consulting.
 
 It is optimized for proposal production, not for broad general-purpose assistance.
 
@@ -15,7 +15,7 @@ It is optimized for proposal production, not for broad general-purpose assistanc
 `Smart` is expected to prioritize:
 
 - workspace `knowledge-base/`
-- `~/Desktop/Cornerstone Wiki/knowledge-base/`
+- `~/Desktop/Consulting Wiki/knowledge-base/`
 - existing local proposal decks, PDFs, and training materials
 
 This means it should not generate proposals from scratch when reusable local assets already exist.
@@ -54,7 +54,7 @@ This is a core part of the agent's value.
 1. create a structured outline
 2. write HTML slide content
 3. convert HTML into `.pptx`
-4. save outputs to the Cornerstone local workspace
+4. save outputs to the Acme Consulting local workspace
 
 ### 5. Memory for continuity
 
@@ -97,4 +97,4 @@ Some capabilities are tool-level or platform-level rather than `Smart`-specific,
 - image generation
 - generic debugging tools
 
-Those are available to many agents. What is specific to `Smart` is how it combines them around Cornerstone proposal work.
+Those are available to many agents. What is specific to `Smart` is how it combines them around Acme Consulting proposal work.
