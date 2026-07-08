@@ -1,8 +1,8 @@
-<p align="center"><img src="assets/banner.png" alt="Cornerstone Deck Agent — an awesome-ceo-stack agent skill" width="820"></p>
+<p align="center"><img src="assets/banner.png" alt="Agentify PPT Proposal-Writing Agent — an awesome-ceo-stack agent skill" width="820"></p>
 
 <div align="center">
 
-# Cornerstone Smart Agent
+# Agentify PPT Proposal-Writing Agent
 
 ### Proposal AI Agent · 提案型 AI 智能体 · 提案作成 AI エージェント · 제안형 AI 에이전트 · Agente de IA para Propuestas
 

@@ -37,7 +37,7 @@
 | 📚 [**Enterprise Knowledge Base**](ceo-skill/OpenClaw-Enterprise-Knowledge-Base-Skill) | 创建、审计、修复、校验、同步一个 **agent 可读的 Markdown / Obsidian 知识库**——本体式 wiki、受治理的业务对象、`hot.md` 启动缓存、agent 安全可见性规则。 |
 | 📈 [**Viral Video Shorts**](ceo-skill/openclaw-viral-video-shorts) | 产品驱动的**爆款短视频**:素材摄取、角色一致性、Seedance 片段、可读的屏幕字幕。 |
 | 🖥️ [**Web Deck(网页 PPT)**](ceo-skill/openclaw-ppt-skill) | 单文件、横向翻页的**网页 slide deck**,两种风格:"电子杂志 × 电子墨水"(衬线 + 流体 WebGL)或"瑞士国际主义"(网格 + 高反差高亮)。 |
-| ✍️ [**Cornerstone Deck Agent**](ceo-skill/cornerstone-smart-agent) | 一个 **PPT 写作 agent**,起草结构化、可直接演示的 slide 内容。 |
+| 📑 [**Agentify PPT Proposal-Writing Agent**](ceo-skill/agentify-ppt-proposal-agent) | 一个**提案写作 agent**,把一份 brief 变成结构化、可直接给客户的 PPT 提案。 |
 | 🎓 [**Study Coach**](ceo-skill/Openclaw-Study-Coach) | 一个全科 **K-12 AI 辅导员**,带纵向记忆、跨学科思维方法(发散 / 计算 / 间隔重复),以及 3 分钟**家长 Playbook**。 |
 | 🔍 [**SEO Content Writer**](ceo-skill/openclaw-seo-content-writer) | 写作、质检、发布、部署校验,并让 **SEO 博客文章被 Google 收录**——一套写作流程直到 Search Console 提交。 |
 | 📊 [**Equity Research**](ceo-skill/openclaw-equity-research) | 结构化的**股票研究备忘**与观察名单分诊——业绩前瞻、首次覆盖、模型更新、估值备忘、催化剂日历、投资逻辑追踪。 |
